@@ -1,3 +1,3 @@
 Coming soon
 
-https://swilcoxson.github.io/projects.html
+#[Projects](https://swilcoxson.github.io/projects)
