@@ -1,4 +1,4 @@
 ---
-permalink: /projects.html
+permalink: /projects
 ---
-Coming soon
+Coming soon!
