@@ -1,4 +1,1 @@
----
-permalink: /projects
----
 Coming soon.
