@@ -1,4 +1,4 @@
 ---
 permalink: /projects
 ---
-Coming soon!
+Coming soon.
