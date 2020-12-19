@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 title: Sam Wilcoxson
 description: Computational Linguist
+markdown: kramdown
